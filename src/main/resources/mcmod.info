@@ -1,0 +1,21 @@
+[
+{
+    "modid": "practice",
+    "name": "Practice",
+    "description": "This is my first Mod!!!",
+    "version": "1.0",
+    "credits": "Created by th3Wyatt, Thanks to Pahimar for teaching me how to mod!",
+    "logoFile": "",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "th3Wyatt"
+    ],
+    "parent":"",
+    "screenshots": [
+    ],
+    "dependencies": [
+    ]
+}
+]
